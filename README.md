@@ -1,6 +1,6 @@
-# Andrea Minin
+# [Andrea Minin](https://www.linkedin.com/in/andre-minin/)
 
-## Software Architect | Software Delivery Lead
+## Solution Architect | Principal Backend Engineer | Distributed Systems and Cloud Platforms (AWS, Java, Node.js) | DevSecOps, SRE, and Microservices Architecture
 
 I design, lead, and scale mission-critical software ecosystems across fintech, lottery and gaming operations, cloud platforms, and digital payments.
 
