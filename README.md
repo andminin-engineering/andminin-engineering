@@ -1,110 +1,80 @@
 # Andrea Minin
 
-## Software Delivery Lead | Solution Architecture | Backend & Platform Engineering
+## Software Architect | Software Delivery Lead | CEO & Founder
 
-Building and evolving scalable ecosystems across fintech, gaming/lottery operations, cloud infrastructure, and digital payment integrations.
+I design, lead, and scale mission-critical software ecosystems across fintech, lottery and gaming operations, cloud platforms, and digital payments.
 
-Currently focused on architecture governance, delivery leadership, and modernization of high-availability transactional platforms, aligning Development, QA, Infrastructure, and Business to ensure reliable and measurable outcomes.
+My profile combines architecture depth, delivery governance, and executive ownership of outcomes. I operate at the intersection of technology strategy and execution, aligning Engineering, QA, Infrastructure, Product, and Business to deliver resilient platforms with measurable impact.
 
-## Current Focus
+## Executive Profile
 
-- Platform modernization and architecture evolution
-- Delivery governance with quality gates and release standards
-- CI/CD standardization (GitHub Actions, GitLab CI/CD, SonarQube)
-- Cloud reliability and resiliency on AWS
-- Observability and operational excellence
-- AI-assisted engineering workflows and automation
+- Software architecture for high-availability transactional systems
+- Delivery leadership with strong governance and quality standards
+- Cloud modernization and platform engineering on AWS
+- Enterprise CI/CD, release management, and operational controls
+- Security, reliability, and risk-driven decision frameworks
+- AI-assisted engineering workflows for productivity and quality acceleration
 
-## Core Expertise
+## Domain Expertise
 
-### Architecture & Engineering
+### Fintech and Payments
 
-- Distributed systems and transactional platforms
-- Modular monoliths and microservices
-- Clean Architecture and Domain-Driven Design (DDD)
-- Event-driven systems and asynchronous processing
-- Technical governance, architecture reviews, and ADR practices
-
-### Payments & Integrations
-
-- Digital payment ecosystems
 - Multi-wallet and banking integrations
-- Payment gateways and secure validation patterns
-- Multi-provider transactional orchestration
-- Enterprise integration and reconciliation flows
+- Payment gateways and secure transaction validation
+- Multi-provider orchestration and reconciliation flows
+- Architecture patterns for consistency, traceability, and compliance
 
-### Lotline, Lottery & Gaming Platforms
+### Lottery and Gaming Platforms (Lotline)
 
-Design and delivery of end-to-end solutions for online gaming and lottery ecosystems, including:
+End-to-end architecture and delivery for online gaming and lottery operations, including:
 
 - Loto and Loto Plus
-- Tombola / Quiniela
+- Tombola and Quiniela
 - QuiniExpress
 - Raspaditas
 - Telebingos and Minibingos
-- Lottery jackpot pools and draw lifecycle orchestration
+- Jackpot pools and draw lifecycle orchestration
 
-Also experienced in integral billing and draw-management systems, including:
+Experience includes integrated billing and draw-management systems with:
 
 - Prize and non-prize flow administration
-- Full draw operations and control processes
-- TV-oriented visualization and broadcast-ready presentation components
-- Modern interface design with animation and UX detail
-- Security-first, resilient multi-tenant platform design from inception
+- Full operational control for draw execution
+- TV-oriented visualization and broadcast-ready components
+- Modern interface systems with animation and high-quality UX details
+- Security-first multi-tenant design with resilience by architecture
 
-### DevOps, Cloud & Reliability
+## Architecture and Engineering Capabilities
 
-- AWS (ECS, cloud-native operational patterns)
-- Docker and containerized workloads
-- GitHub Actions and GitLab CI/CD pipelines
-- SonarQube quality governance
-- Environment governance and release management
-- Observability, incident response, and continuous reliability improvement
+- Distributed systems, microservices, and modular monoliths
+- Clean Architecture and Domain-Driven Design (DDD)
+- Event-driven systems and asynchronous processing
+- Architecture governance, technical reviews, and ADR practices
+- Scalability, observability, and reliability engineering
 
-## Tech Stack
+## Cloud, DevOps, and Reliability
 
-### Backend
+- AWS ecosystem with production-grade operating models
+- Docker and containerized runtime strategies
+- GitHub Actions and GitLab CI/CD standardization
+- SonarQube quality governance and quality gate enforcement
+- Release governance, incident response, and continuous improvement
 
-- Java
-- Spring Boot
-- Node.js
-- NestJS
+## Technology Stack
 
-### Frontend
+- Backend: Java, Spring Boot, Node.js, NestJS
+- Frontend: React, Next.js
+- Data: PostgreSQL, Oracle
+- Platform and Tooling: AWS, Docker, GitHub Actions, GitLab CI/CD, SonarQube
 
-- React
-- Next.js
+## Leadership Principles
 
-### Data
+- Build for operational scale, not only code scale
+- Prioritize long-term maintainability, security, and resilience
+- Drive business-aligned engineering decisions with explicit risk management
+- Establish predictable delivery through standards, governance, and accountability
 
-- PostgreSQL
-- Oracle
-
-### Platform & Tooling
-
-- AWS
-- Docker
-- GitHub Actions
-- GitLab CI/CD
-- SonarQube
-
-## Leadership & Operations
-
-- Cross-functional delivery coordination
-- Architecture and implementation planning
-- Risk management and operational continuity
-- Release governance and quality assurance
-- Incident coordination in critical environments
-- Continuous improvement and engineering enablement
-
-## Engineering Principles
-
-Build systems that scale operationally, not only technically.
-
-Focus on long-term maintainability, security, resilience, and business-aligned delivery.
-
-## Professional Presence
+## Professional Contact
 
 - LinkedIn: https://www.linkedin.com/in/andre-minin/
 - GitHub: https://github.com/andminin-engineering
-- Contact: andminin.biz@gmail.com
+- Email: andminin.biz@gmail.com
