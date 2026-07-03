@@ -1,6 +1,6 @@
 # Andrea Minin
 
-## Software Architect | Software Delivery Lead | CEO & Founder
+## Software Architect | Software Delivery Lead
 
 I design, lead, and scale mission-critical software ecosystems across fintech, lottery and gaming operations, cloud platforms, and digital payments.
 
