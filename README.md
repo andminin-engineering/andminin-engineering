@@ -1,6 +1,6 @@
 # [Andrea Minin](https://www.linkedin.com/in/andre-minin/)
 
-## Solution Architect | Principal Backend Engineer | Sistemas Distribuidos y Plataformas Cloud (AWS, Java, Node.js) | DevSecOps, SRE y Arquitectura de Microservicios
+## Arquitecta de Soluciones | Ingeniera Backend Senior | Sistemas Distribuidos y Plataformas Cloud (AWS, Java, Node.js) | DevSecOps, SRE y Arquitectura de Microservicios
 
 Diseno, lidero y escalo ecosistemas de software de mision critica en fintech, operaciones de juegos online, plataformas cloud e integraciones de pagos digitales.
 
