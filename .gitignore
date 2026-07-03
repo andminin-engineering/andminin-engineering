@@ -1,0 +1,11 @@
+# Internal/private working files
+BITACORA.md
+chat.md
+*.chat.md
+*.notes.md
+
+# Local work artifacts
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
