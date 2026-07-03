@@ -24,16 +24,14 @@ My profile combines architecture depth, delivery governance, and executive owner
 - Multi-provider orchestration and reconciliation flows
 - Architecture patterns for consistency, traceability, and compliance
 
-### Lottery and Gaming Platforms (Lotline)
+### Online Gaming Multi-Tenant Platform
 
-End-to-end architecture and delivery for online gaming and lottery operations, including:
+End-to-end architecture and delivery for online gaming and lottery operations in a multi-tenant platform model, including:
 
-- Loto and Loto Plus
-- Tombola and Quiniela
-- QuiniExpress
-- Raspaditas
-- Telebingos and Minibingos
-- Jackpot pools and draw lifecycle orchestration
+- Draw lifecycle orchestration and transactional control
+- High-volume operation flows with strict reliability requirements
+- Secure player-facing and backoffice capabilities
+- Regulatory-aware controls and operational governance
 
 Experience includes integrated billing and draw-management systems with:
 
