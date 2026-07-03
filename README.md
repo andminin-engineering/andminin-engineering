@@ -1,77 +1,77 @@
 # [Andrea Minin](https://www.linkedin.com/in/andre-minin/)
 
-## Solution Architect | Principal Backend Engineer | Distributed Systems and Cloud Platforms (AWS, Java, Node.js) | DevSecOps, SRE, and Microservices Architecture
+## Solution Architect | Principal Backend Engineer | Sistemas Distribuidos y Plataformas Cloud (AWS, Java, Node.js) | DevSecOps, SRE y Arquitectura de Microservicios
 
-I design, lead, and scale mission-critical software ecosystems across fintech, lottery and gaming operations, cloud platforms, and digital payments.
+Diseno, lidero y escalo ecosistemas de software de mision critica en fintech, operaciones de juegos online, plataformas cloud e integraciones de pagos digitales.
 
-My profile combines architecture depth, delivery governance, and executive ownership of outcomes. I operate at the intersection of technology strategy and execution, aligning Engineering, QA, Infrastructure, Product, and Business to deliver resilient platforms with measurable impact.
+Mi perfil combina profundidad de arquitectura, gobierno de entrega y responsabilidad ejecutiva sobre resultados. Trabajo en la interseccion entre estrategia tecnologica y ejecucion, alineando Ingenieria, QA, Infraestructura, Producto y Negocio para entregar plataformas resilientes con impacto medible.
 
-## Executive Profile
+## Perfil Ejecutivo
 
-- Software architecture for high-availability transactional systems
-- Delivery leadership with strong governance and quality standards
-- Cloud modernization and platform engineering on AWS
-- Enterprise CI/CD, release management, and operational controls
-- Security, reliability, and risk-driven decision frameworks
-- AI-assisted engineering workflows for productivity and quality acceleration
+- Arquitectura de software para sistemas transaccionales de alta disponibilidad
+- Liderazgo de entrega con gobierno solido y estandares de calidad
+- Modernizacion cloud y platform engineering en AWS
+- CI/CD empresarial, release management y controles operativos
+- Marcos de decision orientados a seguridad, confiabilidad y gestion de riesgo
+- Flujos de ingenieria asistidos por IA para acelerar productividad y calidad
 
-## Domain Expertise
+## Especialidad de Dominio
 
-### Fintech and Payments
+### Fintech y Pagos
 
-- Multi-wallet and banking integrations
-- Payment gateways and secure transaction validation
-- Multi-provider orchestration and reconciliation flows
-- Architecture patterns for consistency, traceability, and compliance
+- Integraciones multi-wallet y bancarias
+- Pasarelas de pago y validacion segura de transacciones
+- Orquestacion multiproveedor y flujos de conciliacion
+- Patrones de arquitectura para consistencia, trazabilidad y compliance
 
-### Online Gaming Multi-Tenant Platform
+### Plataforma de Juegos Online Multi-Tenant
 
-End-to-end architecture and delivery for online gaming and lottery operations in a multi-tenant platform model, including:
+Arquitectura y delivery end-to-end para operaciones de juegos online y sorteos en un modelo multi-tenant, incluyendo:
 
-- Draw lifecycle orchestration and transactional control
-- High-volume operation flows with strict reliability requirements
-- Secure player-facing and backoffice capabilities
-- Regulatory-aware controls and operational governance
+- Orquestacion del ciclo de sorteos y control transaccional
+- Flujos de alto volumen con requerimientos estrictos de confiabilidad
+- Capacidades seguras para usuarios finales y backoffice
+- Controles operativos y de gobierno alineados a exigencias regulatorias
 
-Experience includes integrated billing and draw-management systems with:
+La experiencia incluye sistemas integrales de facturacion y gestion de sorteos con:
 
-- Prize and non-prize flow administration
-- Full operational control for draw execution
-- TV-oriented visualization and broadcast-ready components
-- Modern interface systems with animation and high-quality UX details
-- Security-first multi-tenant design with resilience by architecture
+- Administracion de flujos premiados y no premiados
+- Control operativo completo para la ejecucion de sorteos
+- Visualizacion orientada a TV y componentes listos para broadcasting
+- Sistemas de interfaz moderna con animaciones y alto detalle de UX
+- Diseno multi-tenant security-first con resiliencia desde la arquitectura
 
-## Architecture and Engineering Capabilities
+## Capacidades de Arquitectura e Ingenieria
 
-- Distributed systems, microservices, and modular monoliths
-- Clean Architecture and Domain-Driven Design (DDD)
-- Event-driven systems and asynchronous processing
-- Architecture governance, technical reviews, and ADR practices
-- Scalability, observability, and reliability engineering
+- Sistemas distribuidos, microservicios y monolitos modulares
+- Clean Architecture y Domain-Driven Design (DDD)
+- Sistemas event-driven y procesamiento asincronico
+- Gobierno de arquitectura, revisiones tecnicas y practicas ADR
+- Escalabilidad, observabilidad e ingenieria de confiabilidad
 
-## Cloud, DevOps, and Reliability
+## Cloud, DevOps y Confiabilidad
 
-- AWS ecosystem with production-grade operating models
-- Docker and containerized runtime strategies
-- GitHub Actions and GitLab CI/CD standardization
-- SonarQube quality governance and quality gate enforcement
-- Release governance, incident response, and continuous improvement
+- Ecosistema AWS con modelos operativos de nivel productivo
+- Docker y estrategias de ejecucion containerizada
+- Estandarizacion con GitHub Actions y GitLab CI/CD
+- Gobierno de calidad con SonarQube y enforcement de quality gates
+- Gobierno de releases, respuesta a incidentes y mejora continua
 
-## Technology Stack
+## Stack Tecnologico
 
 - Backend: Java, Spring Boot, Node.js, NestJS
 - Frontend: React, Next.js
-- Data: PostgreSQL, Oracle
-- Platform and Tooling: AWS, Docker, GitHub Actions, GitLab CI/CD, SonarQube
+- Datos: PostgreSQL, Oracle
+- Plataforma y Tooling: AWS, Docker, GitHub Actions, GitLab CI/CD, SonarQube
 
-## Leadership Principles
+## Principios de Liderazgo
 
-- Build for operational scale, not only code scale
-- Prioritize long-term maintainability, security, and resilience
-- Drive business-aligned engineering decisions with explicit risk management
-- Establish predictable delivery through standards, governance, and accountability
+- Construir para escalar operativamente, no solo a nivel de codigo
+- Priorizar mantenibilidad de largo plazo, seguridad y resiliencia
+- Impulsar decisiones de ingenieria alineadas al negocio con riesgo explicito
+- Establecer delivery predecible mediante estandares, gobierno y accountability
 
-## Professional Contact
+## Contacto Profesional
 
 - LinkedIn: https://www.linkedin.com/in/andre-minin/
 - GitHub: https://github.com/andminin-engineering
