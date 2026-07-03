@@ -1,1 +1,110 @@
-# Andrea Minin**Software Delivery Lead | Backend Engineering | Solution Architecture | Cloud & Platform Modernization**Buenos Aires, Argentina---## IntroductionI am a technology professional specializing in software delivery, backend engineering, and cloud modernization. My career focuses on translating complex technical challenges into scalable solutions while maintaining operational excellence and business alignment.I have led cross-functional initiatives spanning enterprise applications, transactional platforms, digital payments, CI/CD modernization, cloud adoption strategies, and architecture governance. My approach combines hands-on technical execution, architectural rigor, operational reliability, and strategic business perspective.---## What I Do### Software Delivery LeadershipEnd-to-end ownership of technical delivery across platform modernization, process optimization, and organizational scaling initiatives. Focus on governance frameworks, risk mitigation, and measurable business outcomes.### Backend EngineeringArchitecting and implementing scalable backend systems using modern frameworks and patterns. Specialization in enterprise applications, transactional systems, and distributed architectures.### Solution ArchitectureDesigning technical solutions aligned with business objectives. Experience in cloud migration strategies, platform evolution, and technical debt management.### Platform ModernizationLeading cloud adoption initiatives, infrastructure as code implementation, and operational model transformation. Focus on cost optimization, security posture, and engineering velocity.### Technical GovernanceEstablishing architecture principles, review practices, quality standards, and release governance frameworks. Building shared understanding across technical and business stakeholders.### Operational ExcellenceImplementing observability practices, reliability engineering, incident response frameworks, and performance optimization. Ensuring production systems operate reliably at scale.---## Core Technologies### Backend Development- **Java** | Spring Boot | Spring Cloud | Spring Data- **Node.js** | NestJS | TypeScript- **Enterprise Frameworks** | API Design | Clean Architecture### Data Management- **PostgreSQL** | Oracle Database | SQL- **Database Architecture** | Migrations | Performance Optimization- **Transactional Consistency** | Data Governance### Cloud & DevOps- **AWS** | ECS | EC2 | RDS | S3 | VPC- **Infrastructure as Code** | Terraform | CloudFormation- **Containerization** | Docker | Container Orchestration- **CI/CD Platforms** | GitHub Actions | GitLab CI/CD | Jenkins- **Observability** | SonarQube | Monitoring & Logging### Architecture Patterns- **Microservices** | Service Decomposition | API Gateways- **Modular Monoliths** | Bounded Contexts- **Clean Architecture** | Layered Design | Separation of Concerns- **Domain-Driven Design** | Event Sourcing | CQRS- **Event-Driven Systems** | Message Queues | Async Processing---## Areas of Expertise- **Enterprise Software Delivery** ÔÇö Multi-team coordination, delivery at scale- **Fintech Platforms** ÔÇö Payment systems, transactional architecture, regulatory compliance- **Payment Integrations** ÔÇö Third-party payment gateways, reconciliation systems, settlement- **Release Governance** ÔÇö Versioning strategies, change management, deployment automation- **CI/CD Strategy** ÔÇö Pipeline design, artifact management, deployment orchestration- **Observability** ÔÇö Metrics, tracing, logging, alerting frameworks- **Cloud Modernization** ÔÇö Legacy system migration, cloud-native architecture, cost optimization- **Risk Management** ÔÇö Technical debt assessment, architectural decisions, security considerations- **Cross-Functional Leadership** ÔÇö Alignment with product, operations, and business teams---## Current FocusMy recent work emphasizes:- **Platform Engineering** ÔÇö Developer experience, internal tooling, operational standardization- **Cloud Architecture** ÔÇö AWS adoption, infrastructure optimization, multi-region strategies- **Reliability Engineering** ÔÇö SLOs, error budgeting, chaos engineering- **AI-Assisted Development** ÔÇö Leveraging AI tools for code quality, productivity, and decision support- **Engineering Governance** ÔÇö Architecture decision records, review practices, technical standards- **Scalable Systems** ÔÇö Designing for growth, horizontal scaling, distributed system patterns---## Featured PortfolioI am actively developing repositories demonstrating:- **Platform Modernization** ÔÇö Cloud migration case studies, infrastructure patterns- **Enterprise CI/CD Governance** ÔÇö Pipeline templates, deployment strategies, artifact management- **Java & Spring Boot** ÔÇö Production-grade APIs, architectural patterns, best practices- **AWS & Terraform** ÔÇö ECS deployments, networking, infrastructure automation- **Observability** ÔÇö Monitoring implementations, structured logging, distributed tracing- **Architecture Playbooks** ÔÇö Decision frameworks, technology selections, design patternsRepositories will provide practical guidance for senior engineers, architects, and technical leaders navigating similar challenges.---## Professional GoalsI am interested in opportunities as:- **Software Delivery Lead** ÔÇö Managing technical delivery, cross-functional coordination, strategic initiatives- **Engineering Lead** ÔÇö Building and scaling engineering teams, technical mentorship, culture- **Solution Architect** ÔÇö Designing solutions, technology strategy, stakeholder alignment- **Senior Backend Engineer** ÔÇö Technical execution, system design, architectural contributions- **Platform Engineering** ÔÇö Infrastructure services, developer experience, operational automation---## Contact**Email:** [andminin.biz@gmail.com](mailto:andminin.biz@gmail.com)**LinkedIn:** [linkedin.com/in/andre-minin](https://www.linkedin.com/in/andre-minin)**GitHub:** [github.com/andminin-engineering](https://github.com/andminin-engineering)---## Building Reliable SystemsI am committed to building scalable, maintainable, and reliable systems that create long-term business value. Technology is a means to business outcomesÔÇöstrategic decisions, operational discipline, and team capability compound over time to deliver sustainable competitive advantage.Let's connect if you're working on challenges involving software delivery, backend systems, or platform modernization.
+# Andrea Minin
+
+## Software Delivery Lead | Solution Architecture | Backend & Platform Engineering
+
+Building and evolving scalable ecosystems across fintech, gaming/lottery operations, cloud infrastructure, and digital payment integrations.
+
+Currently focused on architecture governance, delivery leadership, and modernization of high-availability transactional platforms, aligning Development, QA, Infrastructure, and Business to ensure reliable and measurable outcomes.
+
+## Current Focus
+
+- Platform modernization and architecture evolution
+- Delivery governance with quality gates and release standards
+- CI/CD standardization (GitHub Actions, GitLab CI/CD, SonarQube)
+- Cloud reliability and resiliency on AWS
+- Observability and operational excellence
+- AI-assisted engineering workflows and automation
+
+## Core Expertise
+
+### Architecture & Engineering
+
+- Distributed systems and transactional platforms
+- Modular monoliths and microservices
+- Clean Architecture and Domain-Driven Design (DDD)
+- Event-driven systems and asynchronous processing
+- Technical governance, architecture reviews, and ADR practices
+
+### Payments & Integrations
+
+- Digital payment ecosystems
+- Multi-wallet and banking integrations
+- Payment gateways and secure validation patterns
+- Multi-provider transactional orchestration
+- Enterprise integration and reconciliation flows
+
+### Lotline, Lottery & Gaming Platforms
+
+Design and delivery of end-to-end solutions for online gaming and lottery ecosystems, including:
+
+- Loto and Loto Plus
+- Tombola / Quiniela
+- QuiniExpress
+- Raspaditas
+- Telebingos and Minibingos
+- Lottery jackpot pools and draw lifecycle orchestration
+
+Also experienced in integral billing and draw-management systems, including:
+
+- Prize and non-prize flow administration
+- Full draw operations and control processes
+- TV-oriented visualization and broadcast-ready presentation components
+- Modern interface design with animation and UX detail
+- Security-first, resilient multi-tenant platform design from inception
+
+### DevOps, Cloud & Reliability
+
+- AWS (ECS, cloud-native operational patterns)
+- Docker and containerized workloads
+- GitHub Actions and GitLab CI/CD pipelines
+- SonarQube quality governance
+- Environment governance and release management
+- Observability, incident response, and continuous reliability improvement
+
+## Tech Stack
+
+### Backend
+
+- Java
+- Spring Boot
+- Node.js
+- NestJS
+
+### Frontend
+
+- React
+- Next.js
+
+### Data
+
+- PostgreSQL
+- Oracle
+
+### Platform & Tooling
+
+- AWS
+- Docker
+- GitHub Actions
+- GitLab CI/CD
+- SonarQube
+
+## Leadership & Operations
+
+- Cross-functional delivery coordination
+- Architecture and implementation planning
+- Risk management and operational continuity
+- Release governance and quality assurance
+- Incident coordination in critical environments
+- Continuous improvement and engineering enablement
+
+## Engineering Principles
+
+Build systems that scale operationally, not only technically.
+
+Focus on long-term maintainability, security, resilience, and business-aligned delivery.
+
+## Professional Presence
+
+- LinkedIn: https://www.linkedin.com/in/andre-minin/
+- GitHub: https://github.com/andminin-engineering
+- Contact: andminin.biz@gmail.com
