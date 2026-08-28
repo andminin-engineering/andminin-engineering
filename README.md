@@ -1,78 +1,73 @@
 # [Andrea Minin](https://www.linkedin.com/in/andre-minin/)
 
-## Arquitecta de Soluciones | Ingeniera Backend Senior | Sistemas Distribuidos y Plataformas Cloud (AWS, Java, Node.js) | DevSecOps, SRE y Arquitectura de Microservicios
+## Arquitectura de Soluciones · Backend Senior · Sistemas Distribuidos · Plataformas Cloud
 
-Diseno, lidero y escalo ecosistemas de software de mision critica en fintech, operaciones de juegos online, plataformas cloud e integraciones de pagos digitales.
+Diseño y evoluciono sistemas backend, integraciones y plataformas transaccionales con foco en límites de dominio, confiabilidad operativa y decisiones técnicas explícitas.
 
-Mi perfil combina profundidad de arquitectura, gobierno de entrega y responsabilidad ejecutiva sobre resultados. Trabajo en la interseccion entre estrategia tecnologica y ejecucion, alineando Ingenieria, QA, Infraestructura, Producto y Negocio para entregar plataformas resilientes con impacto medible.
+Mi experiencia combina implementación, arquitectura y coordinación de entrega en contextos de fintech, pagos y servicios digitales. Trabajo conectando decisiones de ingeniería con restricciones de producto, seguridad, operación y mantenimiento.
 
-## Perfil Ejecutivo
+[Ver portfolio técnico](https://andminin-engineering.github.io/portfolio.andminin.biz/)
 
-- Arquitectura de software para sistemas transaccionales de alta disponibilidad
-- Liderazgo de entrega con gobierno solido y estandares de calidad
-- Modernizacion cloud y platform engineering en AWS
-- CI/CD empresarial, release management y controles operativos
-- Marcos de decision orientados a seguridad, confiabilidad y gestion de riesgo
-- Flujos de ingenieria asistidos por IA para acelerar productividad y calidad
+## Enfoque profesional
 
-## Especialidad de Dominio
+- Arquitectura de software para sistemas transaccionales y plataformas integradas.
+- Backend con Java, Spring Boot, Node.js y NestJS.
+- APIs, flujos asíncronos, idempotencia e integraciones multiproveedor.
+- Modernización cloud, observabilidad y preparación para producción.
+- ADR, modelos C4 y análisis de trade-offs para decisiones auditables.
+- Gobierno de calidad, CI/CD y coordinación entre Ingeniería, QA, Infraestructura y Producto.
 
-### Fintech y Pagos
+## Experiencia de dominio
 
-- Integraciones multi-wallet y bancarias
-- Pasarelas de pago y validacion segura de transacciones
-- Orquestacion multiproveedor y flujos de conciliacion
-- Patrones de arquitectura para consistencia, trazabilidad y compliance
+### Fintech y pagos
 
-### Plataforma de Juegos Online Multi-Tenant
+- Integraciones con billeteras, bancos y proveedores de pago.
+- Validación, trazabilidad y conciliación de transacciones.
+- Diseño de contratos e idempotencia para reducir fallos y duplicaciones.
+- Controles operativos orientados a seguridad, consistencia y auditoría.
 
-Arquitectura y delivery end-to-end para operaciones de juegos online y sorteos en un modelo multi-tenant, incluyendo:
+### Servicios digitales y plataformas de operación
 
-- Orquestacion del ciclo de sorteos y control transaccional
-- Flujos de alto volumen con requerimientos estrictos de confiabilidad
-- Capacidades seguras para usuarios finales y backoffice
-- Controles operativos y de gobierno alineados a exigencias regulatorias
+- Evolución de productos orientados a usuarios y herramientas internas.
+- Sistemas de gestión, analítica e integración mediante APIs.
+- Flujos transaccionales y operación multi-tenant.
+- Colaboración con equipos multidisciplinarios durante definición, implementación y evolución.
 
-La experiencia incluye sistemas integrales de facturacion y gestion de sorteos con:
+## Evidencia técnica seleccionada
 
-- Administracion de flujos premiados y no premiados
-- Control operativo completo para la ejecucion de sorteos
-- Visualizacion orientada a TV y componentes listos para broadcasting
-- Sistemas de interfaz moderna con animaciones y alto detalle de UX
-- Diseno multi-tenant security-first con resiliencia desde la arquitectura
+Estos repositorios son artefactos públicos de referencia. Documentan decisiones y prácticas de ingeniería; no se presentan como sistemas productivos ni exponen información confidencial.
 
-## Capacidades de Arquitectura e Ingenieria
+### [Payment Orchestration Platform](https://github.com/andminin-engineering/payment-orchestration-platform)
 
-- Sistemas distribuidos, microservicios y monolitos modulares
-- Clean Architecture y Domain-Driven Design (DDD)
-- Sistemas event-driven y procesamiento asincronico
-- Gobierno de arquitectura, revisiones tecnicas y practicas ADR
-- Escalabilidad, observabilidad e ingenieria de confiabilidad
+Referencia implementada con Java 21 y Spring Boot 3 para explorar arquitectura hexagonal, idempotencia, adaptadores de proveedores, contratos REST, persistencia y calidad operativa. Incluye ADR, modelos C4, pruebas y automatización de CI.
 
-## Cloud, DevOps y Confiabilidad
+### [Architecture Playbook](https://github.com/andminin-engineering/architecture-playbook)
 
-- Ecosistema AWS con modelos operativos de nivel productivo
-- Docker y estrategias de ejecucion containerizada
-- Estandarizacion con GitHub Actions y GitLab CI/CD
-- Gobierno de calidad con SonarQube y enforcement de quality gates
-- Gobierno de releases, respuesta a incidentes y mejora continua
+Base de conocimiento sobre límites de servicios, integración orientada a eventos, consistencia, seguridad, observabilidad y confiabilidad. Expone alternativas y trade-offs mediante ADR y checklists de preparación para producción.
 
-## Stack Tecnologico
+### [AWS Platform Reference](https://github.com/andminin-engineering/aws-platform-reference)
 
-- Backend: Java, Spring Boot, Node.js, NestJS
-- Frontend: React, Next.js
-- Datos: PostgreSQL, Oracle
-- Plataforma y Tooling: AWS, Docker, GitHub Actions, GitLab CI/CD, SonarQube
+Arquitectura de referencia para plataformas transaccionales en AWS, con foco en disponibilidad multi-AZ, segmentación, recuperación ante desastres, infraestructura declarativa y FinOps.
 
-## Principios de Liderazgo
+## Capacidades
 
-- Construir para escalar operativamente, no solo a nivel de codigo
-- Priorizar mantenibilidad de largo plazo, seguridad y resiliencia
-- Impulsar decisiones de ingenieria alineadas al negocio con riesgo explicito
-- Establecer delivery predecible mediante estandares, gobierno y accountability
+- Sistemas distribuidos, microservicios y monolitos modulares.
+- Arquitectura hexagonal, Clean Architecture y Domain-Driven Design.
+- Sistemas orientados a eventos y procesamiento asíncrono.
+- PostgreSQL, Oracle y diseño de contratos de datos.
+- Docker, AWS, GitHub Actions, GitLab CI/CD y SonarQube.
+- SLI/SLO, observabilidad, gestión de incidentes y mejora continua.
 
-## Contacto Profesional
+## Principios de trabajo
 
-- LinkedIn: https://www.linkedin.com/in/andre-minin/
-- GitHub: https://github.com/andminin-engineering
+- Explicar el contexto y los trade-offs antes de elegir una tecnología.
+- Diseñar para operación, mantenimiento y evolución, no solo para la entrega inicial.
+- Mantener las afirmaciones profesionales vinculadas a evidencia verificable.
+- Tratar seguridad, confiabilidad y calidad como requisitos de arquitectura.
+
+## Contacto
+
+- [Portfolio](https://andminin-engineering.github.io/portfolio.andminin.biz/)
+- [LinkedIn](https://www.linkedin.com/in/andre-minin/)
+- [GitHub](https://github.com/andminin-engineering)
 - Email: andminin.biz@gmail.com
