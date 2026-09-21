@@ -37,9 +37,9 @@ Mi experiencia combina implementación, arquitectura y coordinación de entrega 
 
 Estos repositorios son artefactos públicos de referencia. Documentan decisiones y prácticas de ingeniería; no se presentan como sistemas productivos ni exponen información confidencial.
 
-### [Payment Orchestration Platform](https://github.com/andminin-engineering/payment-orchestration-platform)
+### [open-job-hunter](https://github.com/andminin-engineering/open-job-hunter)
 
-Referencia implementada con Java 21 y Spring Boot 3 para explorar arquitectura hexagonal, idempotencia, adaptadores de proveedores, contratos REST, persistencia y calidad operativa. Incluye ADR, modelos C4, pruebas y automatización de CI.
+Servidor MCP publicado con licencia MIT. Descubre ofertas en múltiples fuentes y las evalúa contra un perfil usando un modelo local sobre Ollama, de modo que los datos del perfil no salen de la máquina. TypeScript, arquitectura por capas, validación con Zod, Docker y CI en GitHub Actions. En uso real desde junio de 2026.
 
 ### [Architecture Playbook](https://github.com/andminin-engineering/architecture-playbook)
 
