@@ -9,3 +9,24 @@ chat.md
 *.tmp
 .DS_Store
 Thumbs.db
+# --- agent operating artifacts: never committed (agent-artifact-guard) ---
+/chat/
+/chat.md
+/handoffs/
+/transcript/
+/transcripts/
+/state/
+/scratch/
+BITACORA*.md
+bitacora*.md
+HANDOFF.md
+handoff.md
+*-handoff.md
+.handoff/
+.specstory/
+.claude/
+.codex/
+.aider*
+CLAUDE.local.md
+task-contract*.json
+# --- end agent operating artifacts ---
