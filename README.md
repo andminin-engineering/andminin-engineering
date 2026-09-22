@@ -41,6 +41,8 @@ Estos repositorios son artefactos públicos de referencia. Documentan decisiones
 
 Servidor MCP publicado con licencia MIT. Descubre ofertas en múltiples fuentes y las evalúa contra un perfil usando un modelo local sobre Ollama, de modo que los datos del perfil no salen de la máquina. TypeScript, arquitectura por capas, validación con Zod, Docker y CI en GitHub Actions. En uso real desde junio de 2026.
 
+[Ver el sitio del proyecto](https://andminin-engineering.github.io/open-job-hunter/)
+
 ### [Architecture Playbook](https://github.com/andminin-engineering/architecture-playbook)
 
 Base de conocimiento sobre límites de servicios, integración orientada a eventos, consistencia, seguridad, observabilidad y confiabilidad. Expone alternativas y trade-offs mediante ADR y checklists de preparación para producción.
